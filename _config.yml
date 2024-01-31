@@ -84,6 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-# Use midnight theme
-theme: jekyll-theme-midnight
